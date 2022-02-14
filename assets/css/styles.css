@@ -1077,10 +1077,22 @@ body.light-theme{
     height: calc(var(--header-height) + 1rem);
   }
 
+  .home__data{
+    margin-top: 3rem;
+  }
+
+  .home__buttons{
+    margin-top: 3rem;
+  }
+
+  .home__name{
+    margin-bottom: 1rem;
+  }
+
   .home__handle{
-    margin-top: 1.5rem;
+    margin-top: 1rem;
     width: 324px;
-    height: 420px;
+    height: 430px;
   }
 
   .home__img{
