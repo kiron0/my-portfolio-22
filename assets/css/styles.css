@@ -970,6 +970,24 @@ body.light-theme{
   }
 }
 
+
+@media screen and (min-width: 410px) {
+  .home__handle{
+    width: 210px;
+    height: 313px;
+    margin-bottom: 3rem;
+    margin-top: 0;
+  }
+
+  .home__buttons{
+    margin-bottom: 0;
+  }
+
+  .home__data{
+    margin-top: 0;
+  }
+}
+
 /* For medium devices */
 @media screen and (min-width: 576px) {
   .nav__menu{
