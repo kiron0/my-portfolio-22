@@ -869,7 +869,7 @@ body.light-theme{
 
 .footer__title,
 .footer__link{
-  color: var(--text-color);
+  color: var(--body-color);
   text-align: center;
   margin-bottom: 2rem;
 }
@@ -1078,13 +1078,11 @@ body.light-theme{
   }
 
   .home__handle{
-    margin-top: 0;
     width: 324px;
     height: 420px;
   }
 
   .home__img{
-    margin-top: 0;
     width: 220px;
   }
 
