@@ -971,7 +971,7 @@ body.light-theme{
 }
 
 
-@media screen and (min-width: 410px) {
+/* @media screen and (min-width: 365px) {
   .home__handle{
     width: 210px;
     height: 313px;
@@ -986,7 +986,7 @@ body.light-theme{
   .home__data{
     margin-top: 0;
   }
-}
+} */
 
 /* For medium devices */
 @media screen and (min-width: 576px) {
